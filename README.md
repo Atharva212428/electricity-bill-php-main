@@ -59,6 +59,8 @@ Verified against the following boundary values:
 | 251 | ₹1,101.50 |
 | 300 | ₹1,420.00 |
 
+![image alt](https://github.com/Atharva212428/electricity-bill-php-main/blob/99d7d1e21f3216e6b57393ed5243482c0fb0f90c/Screenshot%202026-09-26%20214943.png)
+
 ## Future Improvements
 
 - Store bill history in a database
